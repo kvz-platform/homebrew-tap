@@ -8,7 +8,7 @@ brew install kvz-platform/tap/kvz
 ```
 
 kvz needs an Apple Silicon Mac running macOS 26 or later. The formula installs
-a signed and notarized `kvz` binary and the pod kernel.
+a signed `kvz` binary and the pod kernel.
 
 Upgrade with `brew upgrade kvz`.
 
