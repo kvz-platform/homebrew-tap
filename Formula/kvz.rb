@@ -3,9 +3,9 @@
 class Kvz < Formula
   desc "Native macOS Kubernetes: Linux, macOS and native pods in one cluster"
   homepage "https://github.com/kvz-platform/kvz"
-  url "https://github.com/kvz-platform/kvz/releases/download/v1.35.10-1/kvz-v1.35.10-1-darwin-arm64.tar.gz"
-  version "1.35.10-1"
-  sha256 "69a4814afff24c856328df15759eecae4725597e1d5b45949db2cdbc243ff2cc"
+  url "https://github.com/kvz-platform/kvz/releases/download/v1.37.2-2/kvz-v1.37.2-2-darwin-arm64.tar.gz"
+  version "1.37.2-2"
+  sha256 "77d02108eaae4afe9a47892b432ccc93bfa72555d6ecc6309262697c9594339d"
 
   depends_on arch: :arm64
   depends_on macos: :tahoe
